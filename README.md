@@ -1,5 +1,3 @@
-*[Leer en español](README.md)*
-
 # OIDC implemented from scratch
 
 An OpenID Connect client built by hand, without using any OIDC or OAuth library, with the goal of understanding what actually happens during a login with an identity provider like Google.
